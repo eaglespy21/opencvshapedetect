@@ -17,9 +17,4 @@ Thats why working with erosion and blur modules.
 Using erosion and contours the shape object is tracked easily. 
 
 Shape detect? - What do we use for OCR in to detect shapes?  
-Using the number of points in a polygon using approxDP function for contours. 
 
-THe code shapedetect is the final code. 90% done. We just have to remove noise and test. 
-Works on the star well. 
-
-Figure out how to pick up the second biggest contour and ignore everything else.  
